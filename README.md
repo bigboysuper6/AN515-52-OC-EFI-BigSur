@@ -21,6 +21,7 @@ cpu变频正常，不正常的话去搜下如何解决，比较简单
 
 ![](https://github.com/bigboysuper6/AN515-52-OC-EFI-BigSur/blob/main/image/3.png)
 预览图
+
 ![](https://github.com/bigboysuper6/AN515-52-OC-EFI-BigSur/blob/main/image/4.png)
 
 

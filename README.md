@@ -18,6 +18,7 @@ efi也是我在别人的基础上改的，基本能驱动的都驱动了。同�
 使用原装intel网卡9560声卡无法驱动的话需要将alc layout id 改为13，或试试其他
 ![](https://github.com/bigboysuper6/AN515-52-OC-EFI-BigSur/blob/main/image/2.png)
 cpu变频正常，不正常的话去搜下如何解决，比较简单
+
 ![](https://github.com/bigboysuper6/AN515-52-OC-EFI-BigSur/blob/main/image/3.png)
 预览图
 ![](https://github.com/bigboysuper6/AN515-52-OC-EFI-BigSur/blob/main/image/4.png)
